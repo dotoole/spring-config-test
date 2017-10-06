@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-web-app
+  cloud:
+    config:
+      uri: http://localhost:8001
